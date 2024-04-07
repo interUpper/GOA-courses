@@ -1,0 +1,1 @@
+print("solo learn homewokr already passed")
