@@ -1,0 +1,18 @@
+body {
+    width: auto;
+    box-sizing: border-box;
+}
+
+
+.image {
+    width: 40%;
+    margin-left: 1%;
+    margin-top: 1%;
+
+}
+
+.image1 {
+    margin-top: 1%;
+    width: 40%;
+    margin-left: 1%;
+}
