@@ -1,0 +1,53 @@
+body {
+
+    background-image: url(back.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    box-sizing: border-box;
+    margin: auto;
+    background-color: lightgreen;
+}
+
+
+.Title {
+    color: green;
+    margin: auto;
+    margin-left: 10%;
+    font: bold;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 300%;
+    
+    
+}
+.About {
+    margin:auto;
+    color: white;
+    cursor: pointer;    
+    text-decoration: none;
+}
+
+.contact {
+    margin: auto;
+    color: white;
+    cursor: pointer;    
+    text-decoration: none;
+}
+
+.un {
+    margin-left: 30%;
+    color: lightgreen;
+}
+
+
+.fb {
+    color: cyan;
+    margin-left: 30%;
+
+}
+
+.us {
+    color: azure;
+    background-position: center center;
+}
